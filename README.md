@@ -4,4 +4,4 @@
 👩‍🎓 Graduated from The Grace Hopper Program at Fullstack Academy \
 📍 NYC, NY \
 💻 Primary language JavaScript \
-📬 marybelousova@gmail.com \
+📬 marybelousova@gmail.com 
